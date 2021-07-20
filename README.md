@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duc Hao
-- 👀 I’m web developer
+- 👀 I’m a Web Developer
 - 🌱 I study at Ho Chi Minh University of Economics
 - 💞️ Majoring in software engineering
 - 📫 How to reach me ...
